@@ -50,6 +50,7 @@ Average runtime: **5–7 minutes**.
 👤 **Author:** Lawal Mayowa Bryant  
 💼 Graduate Engineer | Data Analytics & AI/ML Enthusiast  
 📧 lawalmayowa95@gmail.com  
-🌐 [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)  
+
+
 
 ---
